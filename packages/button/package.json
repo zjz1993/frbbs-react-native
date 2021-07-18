@@ -27,5 +27,6 @@
     "react": "16.11.0",
     "react-native": "0.62.2",
     "typescript": "^4.3.5"
-  }
+  },
+  "gitHead": "998ee100a5ff5d77219b7201a2c9810902f34104"
 }

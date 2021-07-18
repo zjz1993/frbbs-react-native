@@ -21,5 +21,6 @@
   },
   "dependencies": {
     "@frbbs-react-native/button": "^0.0.2"
-  }
+  },
+  "gitHead": "998ee100a5ff5d77219b7201a2c9810902f34104"
 }
