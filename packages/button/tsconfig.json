@@ -4,9 +4,6 @@
     "outDir": "dist",
     "baseUrl": ".",
     "declaration": true,
-    "paths": {
-      "native-base": ["./src/index"]
-    },
     "allowUnreachableCode": false,
     "allowUnusedLabels": false,
     "esModuleInterop": true,
