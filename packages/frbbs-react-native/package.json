@@ -5,19 +5,22 @@
   "keywords": [],
   "author": "赵俊哲 <1429595365@qq.com>",
   "license": "ISC",
-  "main": "lib/index.ts",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
   "directories": {
-    "lib": "lib",
+    "lib": "src",
     "test": "__tests__"
   },
   "files": [
-    "lib"
+    "src"
   ],
   "scripts": {
+    "build": "tsc",
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "devDependencies": {
-    "metro-react-native-babel-preset": "^0.66.1"
+    "metro-react-native-babel-preset": "^0.66.1",
+    "typescript": "^4.3.5"
   },
   "dependencies": {
     "@frbbs-react-native/button": "^0.0.3"

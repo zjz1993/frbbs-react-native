@@ -1,11 +1,3 @@
-# `@vant-react-native/button`
+# `@frbbs-native-bbs/button`
+frbbs-react-native 中的button组件
 
-> TODO: description
-
-## Usage
-
-```
-const button = require('@vant-react-native/button');
-
-// TODO: DEMONSTRATE API
-```

@@ -5,13 +5,14 @@
   "keywords": [],
   "author": "赵俊哲 <1429595365@qq.com>",
   "license": "ISC",
-  "main": "src/index.tsx",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
   "directories": {
-    "lib": "lib",
+    "lib": "src",
     "test": "__tests__"
   },
   "files": [
-    "lib"
+    "src"
   ],
   "publishConfig": {
     "access": "public"
