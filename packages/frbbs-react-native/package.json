@@ -1,6 +1,6 @@
 {
   "name": "frbbs-react-native",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Now I’m the model of a modern major general / The venerated Virginian veteran whose men are all / Lining up, to put me up on a pedestal / Writin’ letters to relatives / Embellishin’ my elegance and eloquence / But the elephant is in the room / The truth is in ya face when ya hear the British cannons go / BOOM",
   "keywords": [],
   "author": "赵俊哲 <1429595365@qq.com>",
@@ -22,7 +22,7 @@
     "typescript": "^4.3.5"
   },
   "dependencies": {
-    "@frbbs-react-native/button": "^0.0.5"
+    "@frbbs-react-native/button": "^0.0.6"
   },
   "gitHead": "998ee100a5ff5d77219b7201a2c9810902f34104"
 }
